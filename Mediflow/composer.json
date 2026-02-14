@@ -1,0 +1,37 @@
+{
+    "name": "team-clusters/mediflow",
+    "description": "MediFlow - Modern Healthcare Management Platform developed by Team Clusters",
+    "type": "project",
+    "keywords": [
+        "healthcare",
+        "hospital-management",
+        "medical",
+        "php",
+        "mysql"
+    ],
+    "authors": [
+        {
+            "name": "Team Clusters",
+            "role": "Development Team"
+        },
+        {
+            "name": "Manoj",
+            "role": "Lead Developer"
+        },
+        {
+            "name": "Ram Charan",
+            "role": "Full Stack Developer"
+        },
+        {
+            "name": "Sohael",
+            "role": "Backend Engineer"
+        },
+        {
+            "name": "Rajesh",
+            "role": "UI/UX Designer"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
