@@ -176,36 +176,6 @@ MediFlow features a **modern, clean medical UI** with:
 
 ---
 
-## 📄 License
 
-This project is developed for educational and hackathon purposes. All rights reserved by Team Clusters.
 
----
 
-## 🤝 Contributing
-
-This is a hackathon project developed by Team Clusters. For inquiries or collaboration opportunities, please reach out to the team members.
-
----
-
-## 📞 Support
-
-For technical support or questions:
-- Create an issue in the project repository
-- Contact the development team
-
----
-
-## 🏆 Acknowledgments
-
-Special thanks to all team members for their dedication and hard work in bringing MediFlow to life. This project represents our commitment to leveraging technology for better healthcare outcomes.
-
----
-
-<div align="center">
-
-**Built with ❤️ by Team Clusters**
-
-*Empowering Healthcare Through Technology*
-
-</div>
